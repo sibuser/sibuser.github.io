@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Blockchain infra without AWS and K8s
+title: Home
 email: sibuser.nsk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a blog about how to host blockchain nodes outside AWS and K8s.
